@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://count.getloli.com/@:felauraviviengolosino?theme=capoo-1&padding=5&scale=0.2&align=top&pixelated=1&darkmode=0"  />
+  <img src="https://count.getloli.com/@:felauraviviengolosino?theme=capoo-2&padding=7&scale=0.4&align=top&pixelated=1&darkmode=0"  />
 </div>
 
 ###
@@ -15,7 +15,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="100" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGN5bWlpOTU1ejg1enIwOG54aXNsanlzb3BlYThwOThqaHVtamRncCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IKFVtPf8jP6KJH16dB/giphy.gif"  />
+  <img height="107" src="https://i.pinimg.com/originals/94/0c/03/940c03b1a97be8d536bbb19c967c9e15.gif"  />
 </div>
 
 ###
@@ -44,8 +44,14 @@
 
 ###
 
+<div align="center">
+  <img src="https://count.getloli.com/@:felauraviviengolosino?theme=capoo-1&padding=5&scale=0.2&align=top&pixelated=1&darkmode=0"  />
+</div>
+
+###
+
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=blur&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=20&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=blur&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=20&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=7B326A"  />
 </div>
 
 ###
@@ -67,7 +73,7 @@
 ###
 
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=59&fontAlignY=100&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=812D5B"  />
 </div>
 
 ###
@@ -94,22 +100,22 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/felaura-vivien-golosino-4795553a6/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="34" height="16" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="22" alt="linkedin logo"  />
   </a>
   <a href="https://telegram.com/lamentofitsownlyric" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="34" height="16" alt="telegram logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="40" height="22" alt="telegram logo"  />
   </a>
   <a href="https://instagram.com/f.vi33" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="34" height="16" alt="instagram logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="40" height="22" alt="instagram logo"  />
   </a>
   <a href="https://mail.google.com/felauraviviengolosino2006" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="34" height="16" alt="gmail logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40" height="22" alt="gmail logo"  />
   </a>
   <a href="https://x.com/Flr_Vvn" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="34" height="16" alt="twitter logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="40" height="22" alt="twitter logo"  />
   </a>
   <a href="https://discord.com/blackswan_777" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="34" height="16" alt="discord logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="40" height="22" alt="discord logo"  />
   </a>
 </div>
 
